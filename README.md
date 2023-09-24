@@ -7,10 +7,4 @@ This application supports the following sorting algorithms:
 2. **Insertion Sort**.
 3. **Selection Sort**.
 4. **Merge Sort**.
-5. **Quick Sort**.
-
-Host Link :-
-
-**old link** :- https://i-sorting-visualizer.netlify.app/
-
-**new link** :- https://e-sorting-visualizer.netlify.app/
+5. **Quick Sort*
